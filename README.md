@@ -1,2 +1,2 @@
-# StacksQueues
-Stack and Queue ADT's implemented in Java
+# Stack
+Stack ADT implemented in Java
